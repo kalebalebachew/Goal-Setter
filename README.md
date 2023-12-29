@@ -1,7 +1,7 @@
 # Goal-SetterApp-API
 
 ## Description
-GoalSetter API that lets users create delete update their goals it also has an authentication using jwt.
+GoalSetter API that lets users create delete update their goals and it
 could easily be integrated with a frontend application
 
 ## Features
