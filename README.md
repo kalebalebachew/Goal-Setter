@@ -1,4 +1,4 @@
-# Goal-SetterApp-API
+# Goal-Setter-App-API
 
 ## Description
 GoalSetter API that lets users create delete update their goals and it
